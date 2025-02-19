@@ -1,0 +1,28 @@
+When Test Data
+
+Final RMSE:
+
+1. 20 %
+
+Random Forest Regression:    3.140039434465755
+Gradient Boosting Regressor: 2.6365355138386866
+
+2. 40 %
+
+Random Forest Regression:    2.6734974991663614
+Gradient Boosting Regressor: 2.2951649842678656
+
+3. 60 %
+
+Random Forest Regression:    2.554974950953531
+Gradient Boosting Regressor: 2.234468878351084
+
+4. 80 %
+
+Random Forest Regression:    2.943172311655837
+Gradient Boosting Regressor: 2.595598762989817
+
+5. 100 %
+
+Random Forest Regression:    2.9200791924528473
+Gradient Boosting Regressor: 2.622463964260096

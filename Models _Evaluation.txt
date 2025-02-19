@@ -1,0 +1,29 @@
+1. Linear Regression:
+
+    Simple_RMS:
+        4.835301058716238
+    After_Cross_Validation:
+        Scores:[4.22235612 4.26438649 5.09424333 3.83081183 5.37600331 4.41092152 7.47272243 5.48554135 4.14606627 6.0717752 ]
+        Mean: 5.037482786117751
+        Variance: 1.1224093855623412
+        Standard deviation: 1.059438240560695
+
+2. Random Forest Regressor:
+
+    Simple_RMS:
+        1.2508583696370605
+    After_Cross_Validation:
+        Scores:[2.93496755 2.57739571 4.35698253 2.53995405 3.31413294 2.6730424 4.72164124 3.27795504 3.19966572 3.34744401]
+        Mean: 3.294318118840517
+        Variance: 0.5913601354500709
+        Standard deviation: 0.6911662611836474
+
+3. Gradient Boosting Regressor:
+
+    Simple_RMS:
+        1.3649096690786684
+    After_Cross_Validation:
+        Scores:[2.95321342 2.72016277 4.7643302  2.32866208 2.9349575  2.68171038 3.75523104 3.61924839 2.86020038 2.34047495]
+        Mean: 3.0958191121537433
+        Variance: 0.5005509126385461
+        Standard deviation: 0.711768152542641
